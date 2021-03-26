@@ -1,0 +1,14 @@
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\bin\Debug\Pair Programming Console Game.dll
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\bin\Debug\Pair Programming Console Game.pdb
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\obj\Debug\Pair Programming Console Game.csprojAssemblyReference.cache
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\obj\Debug\Pair Programming Console Game.csproj.CoreCompileInputs.cache
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\obj\Debug\Pair Programming Console Game.csproj.CopyComplete
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\obj\Debug\Pair Programming Console Game.dll
+C:\Users\2003k\source\repos\Pair Programming Console Game\Pair Programming Console Game\obj\Debug\Pair Programming Console Game.pdb
